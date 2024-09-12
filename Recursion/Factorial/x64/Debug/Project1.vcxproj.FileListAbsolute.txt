@@ -1,0 +1,2 @@
+D:\Visual Studio\Project & Practice\C++\Function - Practice\Recursion\Project1\x64\Debug\Project1.exe
+D:\Project & Practice\C++\Function - Practice\Recursion\Factorial\x64\Debug\Project1.exe
