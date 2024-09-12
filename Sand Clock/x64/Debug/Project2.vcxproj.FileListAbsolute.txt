@@ -1,0 +1,2 @@
+D:\Project & Practice\C++\Loop structure - Practice\Project2\x64\Debug\Project - Sandclock.exe
+D:\Project & Practice\C++\Loop structure - Practice\Sand Clock\x64\Debug\Project - Sandclock.exe
