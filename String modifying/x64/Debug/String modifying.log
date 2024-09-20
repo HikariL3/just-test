@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Project & Practice\C++\Strings\String modifying\Source.cpp(12,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Project & Practice\C++\Strings\String modifying\Source.cpp(18,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  String modifying.vcxproj -> D:\Project & Practice\C++\Strings\String modifying\x64\Debug\String modifying.exe
